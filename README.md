@@ -1,3 +1,14 @@
 # Python GUI Projects for beginners
 
-In this repo we are going to learn python tkinter module for gui programming and sqlite3 for data base management system
+## modules used:
+-Tkinter (for GUI)
+-sqlite3 (for database)
+
+A simple GUI project for library management using python with features like 
+-login
+-register new user
+-add book
+-remove book
+-lend book
+-renewal book
+-return book
